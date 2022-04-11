@@ -1,0 +1,39 @@
+#cabecera{
+    background: aliceblue;
+    color: darkblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.destacado{
+    font-size: 30px;
+    color: darkblue;
+    background-color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav ul{
+    color: gold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aliceblue;
+}
+
+.link{
+    color: darkblue;
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#todo{
+    background-color: aliceblue;
+}
+
+.foto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.padding{
+    padding: 10px;
+}
